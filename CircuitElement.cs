@@ -8,7 +8,7 @@ using System.Xml.Linq;
 
 namespace PCBElementPlacement
 {
-    class CircuitElement
+    public class CircuitElement
     {
         protected int _x;
         protected int _y;

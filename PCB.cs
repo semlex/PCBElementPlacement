@@ -15,7 +15,7 @@ namespace PCBElementPlacement
         public int value;
     }
 
-    class PCB
+    public class PCB
     {
         int _width;
         int _height;
